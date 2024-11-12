@@ -13,3 +13,6 @@ By analyzing tweets, the word cloud visually represents the most frequently occu
 * Sentiment and polarity score
 * wordcloud
 
+*shape (416809, 2)
+
+Data sources : https://www.kaggle.com/datasets/aadyasingh55/twitter-emotion-classification-dataset
